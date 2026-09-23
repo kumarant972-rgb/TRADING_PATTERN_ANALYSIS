@@ -1,0 +1,9 @@
+streamlit==1.50.0
+tensorflow-cpu==2.16.1
+numpy==1.26.4
+pandas==2.2.2
+yfinance==0.2.66
+scikit-learn==1.5.1
+matplotlib==3.9.2
+mplfinance==0.12.10b0
+joblib==1.4.2
